@@ -1,6 +1,3 @@
-import sys
-sys.path.append('/home/b/b381815/python_functions/')
-
 import os
 import xarray as xr
 import matplotlib as mpl
@@ -17,8 +14,8 @@ proj = ccrs.Mollweide()
 proj._threshold /= 10000.
 cm = 1/2.54  # centimeters in inches
 
-path = '/work/uc1275/LukasBrunner/data/SubGridVariability/4wdc'
-figpath = '../figures_all'
+path = 'data'
+figpath = '../figures_etccdi'
 
 
 def get_ax():
