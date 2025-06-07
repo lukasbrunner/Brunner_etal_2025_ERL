@@ -6,4 +6,4 @@ This repository contains the scripts for the main figures in the paper as well a
 
 - ETCCDI index data: https://www.wdc-climate.de/ui/entry?acronym=nextGEMS_ExtrInd
 - ETCCDI figures (collection): https://doi.org/10.5281/zenodo.15613611
-- Scripts for calculating the ETCCDI indices: https://github.com/lukasbrunner/etccdi_cdo
+- Scripts for calculating the ETCCDI indices: https://github.com/lukasbrunner/etccdi_cdo (code freeze: https://doi.org/10.5281/zenodo.15582464)
